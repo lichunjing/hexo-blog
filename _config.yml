@@ -8,7 +8,7 @@ subtitle:
 description:
 author: Liris
 language:
-- zh-cn
+- zh-CN
 - en
 timezone:
 avatar: /images/psu.jpg
@@ -66,12 +66,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: yilia
+theme: landscape-plus
 
 # Social links
 social:
   github: https://github.com/liris520
-  zhihu: https://www.zhihu.com/people/liris
   
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
