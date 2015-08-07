@@ -15,7 +15,7 @@ avatar: /images/psu.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://liris520.github.io/
+url: http://lirislee.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -76,4 +76,4 @@ social:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:liris520/liris520.github.io.git
+  repo: git@github.com:LirisLee/lirislee.github.io.git
