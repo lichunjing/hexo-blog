@@ -8,14 +8,14 @@ subtitle:
 description:
 author: Liris
 language:
-- zh-CN
+- zh-cn
 - en
 timezone:
 avatar: /images/psu.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://lirislee.github.io
+url: http://lichunjing.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -66,14 +66,14 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape-plus
+theme: even
 
 # Social links
 social:
-  github: https://github.com/liris520
+  github: https://github.com/lichunjing
   
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:LirisLee/lirislee.github.io.git
+  repo: git@github.com:lichunjing/lichunjing.github.io.git

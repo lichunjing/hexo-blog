@@ -1,6 +1,6 @@
 title: My Title
-date: 0000-00-00 00:00:00
-categories: [My Category]
+date: 2016-06-06 00:00:00
+categories: [CCC]
 tags: XXX
 ---
 My first post.
