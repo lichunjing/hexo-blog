@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd ..
+hexo g
+hexo s
